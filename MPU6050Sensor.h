@@ -7,7 +7,6 @@
 #include "hardware/i2c.h"
 #include "eMPL/inv_mpu_dmp_motion_driver.h"
 #include "eMPL/inv_mpu.h"
-#include "cstdio"
 
 namespace {
     constexpr unsigned short SAMPLE_RATE = 200;
